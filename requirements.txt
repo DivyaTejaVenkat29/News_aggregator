@@ -1,0 +1,9 @@
+BeautifulSoup
+Django
+pandas
+requests
+rest_framework
+spacy
+textblob
+urllib
+
